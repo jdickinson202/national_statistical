@@ -91,9 +91,9 @@ GW,GNB,Guinea-Bissau,Instituto Nacional de Estatistica,https://www.stat-guinebis
 GY,GUY,Guyana,Bureau of Statistics,http://www.statisticsguyana.gov.gy/,,,,,,,,,12/29/21
 HT,HTI,Haiti,Institut Haïtien de Statistique et d'Informatique,https://ihsi.ayiti.digital/,,,,Banque de la République d'Haïti,https://www.brh.ht/,,,,12/29/21
 HN,HND,Honduras,Instituto Nacional de Estadística,https://www.ine.gob.hn/V3/,,https://www.ine.gob.hn/V3/baseine/,,,,,,,12/29/21
-HK,HKG,Hong Kong,Census and Statistics Department,https://www.censtatd.gov.hk/en/,,,,,,,,,12/29/21
-HU,HUN,Hungary,Hungarian Central Statistical Office,https://www.ksh.hu/?lang=en,,,,,,,,,12/29/21
-IS,ISL,Iceland,statistics Iceland,https://www.statice.is/,,,,,,,,,12/29/21
+HK,HKG,Hong Kong,Census and Statistics Department,https://www.censtatd.gov.hk/en/,,,,Hong Kong Monetary Authority,https://www.hkma.gov.hk/eng,,,,1/11/22
+HU,HUN,Hungary,Hungarian Central Statistical Office,https://www.ksh.hu/?lang=en,,,,Magyar Nemzeti Bank,https://www.mnb.hu/web/en,,,,1/11/22
+IS,ISL,Iceland,statistics Iceland,https://www.statice.is/,,,,Central Bank of Iceland,https://www.cb.is/,,,,1/11/22
 IN,IND,India,Ministry of Statistics & Programme Implementation,http://mospi.nic.in/,,,http://microdata.gov.in/nada43/index.php/home,,,,,,12/29/21
 ID,IDN,Indonesia,Statistics Indonesia,https://www.bps.go.id/,,,,,,,,,12/29/21
 IR,IRN,Iran,Statistical Center of Iran,https://www.amar.org.ir/english,,,,,,,,,12/29/21
@@ -159,7 +159,7 @@ KP,PRK,North Korea,Central Bureau of Statistics,http://ghdx.healthdata.org/organ
 MP,MNP,Northern Mariana Islands,entral Statistics Division,https://ver1.cnmicommerce.com/divisions/central-statistics/,,,,,,,,,12/29/21
 NO,NOR,Norway,Statistics Norway,https://www.ssb.no/en,,,,,,,,,12/29/21
 OM,OMN,Oman,National Center for Statistics and Information,https://www.ncsi.gov.om/Pages/AllIndicators.aspx,,,,,,,,,12/29/21
-PK,PAK,Pakistan,Pakistan Bureau of Statistics,https://www.pbs.gov.pk/,,,,,,,,,12/29/21
+PK,PAK,Pakistan,Pakistan Bureau of Statistics,https://www.pbs.gov.pk/,english,,,State Bank of Pakistan,https://www.sbp.org.pk/index.asp,,,,1/11/22
 PW,PLW,Palau,,https://www.palaugov.pw/statistics/,,,,,,,,,12/29/21
 PS,PSE,Palestine,Palestinian Central Bureau of Statistics,https://www.pcbs.gov.ps/default.aspx,,,,,,,,,12/29/21
 PA,PAN,Panama,Instituto Nacional de Estadística y Censo,https://www.inec.gob.pa/,,,,,,,,,12/29/21
@@ -169,7 +169,7 @@ PE,PER,Peru,Instituto Nacional de Estadística e Informática,https://www.inei.g
 PH,PHL,Philippines,Philippines Statistics Authority,https://psa.gov.ph/,english,,https://psada.psa.gov.ph/index.php/catalog,,,,,,12/29/21
 PN,PCN,Pitcairn,,https://www.government.pn/,,,,,,,,,12/29/21
 PL,POL,Poland,Statistics Poland,https://stat.gov.pl/en/,,,,,,,,,12/29/21
-PT,PRT,Portugal,statistics portugal,https://www.ine.pt/xportal/xmain?xpgid=ine_main&xpid=INE,,,,,,,,,12/29/21
+PT,PRT,Portugal,Statistics Portugal,https://www.ine.pt/xportal/xmain?xpgid=ine_main&xpid=INE&xlang=en,english; portuguese,https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_base_dados,https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_pufs&menuBOUI=13707095&contexto=up&selTab=tab5&xlang=en,Banco de Portugal,https://www.bportugal.pt/,http://mapas.ine.pt/map.phtml ; https://ine.pt/xportal/xmain?xpid=INE&xpgid=ine_unid_territorial&menuBOUI=13707095&contexto=ut&selTab=tab3,https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&userLoadSave=Load&userTableOrder=10777&tipoSeleccao=1&contexto=pq&selTab=tab1&submitLoad=true,ine@ine.pt,1/4/22
 PR,PRI,Puerto Rico,Instituto de Estadísticas de Puerto Rico,https://estadisticas.pr/,,,,,,,,,12/29/21
 QA,QAT,Qatar,Ministry of Development Planning and Statistics,https://www.psa.gov.qa/en/pages/default.aspx,,,,,,,,,12/29/21
 CG,COG,Republic of the Congo,Institut National De La Statistique,https://ins-congo.cg/,,,,,,,,,12/29/21
