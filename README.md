@@ -3,3 +3,6 @@ This repo holds the database of national statistical offices for all (available)
 http://discord.gg/economics
 
 Please cite this database whenever possible.
+
+Citation Link:
+<a href="https://zenodo.org/badge/latestdoi/435074172"><img src="https://zenodo.org/badge/435074172.svg" alt="DOI"></a>
