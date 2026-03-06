@@ -1,4 +1,4 @@
-﻿Country Code,3-digit country code,Country,Statistical Authority,Link,Website Languages,Data,Microdata,Central Bank Name,Central Bank Website,GIS/Geospatial data,Trade Data,contact,Updated
+Country Code,3-digit country code,Country,Statistical Authority,Link,Website Languages,Data,Microdata,Central Bank Name,Central Bank Website,GIS/Geospatial data,Trade Data,contact,Updated
 AF,AFG,Afghanistan,-,,,,,Afghanistan Central Bank,https://www.dab.gov.af/,,,,12/29/2021
 AL,ALB,Albania,Institute of Statistics,http://www.instat.gov.al/en/home.aspx,English,,http://www.instat.gov.al/en/figures/micro-data/,Bank of Albania,https://www.bankofalbania.org/home/,,,info@instat.gov.al,12/29/2021
 DZ,DZA,Algeria,Office National des Statistiques,https://www.ons.dz/,french,,,Banque d'Algerie,https://www.bank-of-algeria.dz/,,,ons@ons.dz  ; stat@ons.dz,12/29/2021
@@ -21,9 +21,9 @@ BB,BRB,Barbados,Barbados Statistical Service,https://stats.gov.bb/,english,,,Cen
 BY,BLR,Belarus,National Statistical Committee of the Republic of Belarus,https://www.belstat.gov.by/en/,english;russian,,,National Bank of the Republic of Belarus,https://www.nbrb.by/engl,,,,12/29/2021
 BE,BEL,Belgium,STATBEL,https://statbel.fgov.be/en,Dutch; french; german; english,https://statbel.fgov.be/en/open-data,,Banque Nationale de Belgique,https://www.nbb.be/fr,,,,12/29/2021
 BZ,BLZ,Belize,Statistical Institute of Belize,http://sib.org.bz/,english,,,Central Bank of Belize,https://www.centralbank.org.bz/,,,,12/29/2021
-BJ,BEN,Benin,Lâ€™Institut National de la Statistique et de la DÃ©mographie,https://insae.bj/,,https://insae.bj/statistiques/enquetes-et-recensements,,Banque Centrale des Etats de lâ€™Afrique de lâ€™Ouest ,https://www.bceao.int/fr/etats-membres/benin,,,,12/29/2021
+BJ,BEN,Benin,Lâ€™Institut National de la Statistique et de la DÃ©mographie,https://insae.bj/,,https://insae.bj/statistiques/enquetes-et-recensements,,Banque Centrale des Etats de lâ€™Afrique de lâ€™Ouest,https://www.bceao.int/fr/etats-membres/benin,,,,12/29/2021
 BM,BMU,Bermuda,Department of Statistics,https://www.gov.bm/department/statistics,english,http://sib.org.bz/data-portals/,http://sib.org.bz/data-portals/microdata/,Bermuda Monetary Authority,https://www.bma.bm/,,,,12/29/2021
-BT,BTN,Bhutan,National Statistics Bureau ,https://www.nsb.gov.bt/,english,,,Royal Monetary Authority of Bhutan,https://www.rma.org.bt/,,,,12/29/2021
+BT,BTN,Bhutan,National Statistics Bureau,https://www.nsb.gov.bt/,english,,,Royal Monetary Authority of Bhutan,https://www.rma.org.bt/,,,,12/29/2021
 BO,BOL,Bolivia,instituto Nacional de EstatÃ­stica,https://www.ine.gob.bo/,spanish,,,Central Bank of Bolivia,https://www.bcb.gob.bo/,,,,12/29/2021
 BA,BIH,Bosnia and Herzegovina,Agency for Statistics of Bosnia and Herzegovina,https://bhas.gov.ba/?lang=en,english; serbian; croatian,,,Central Bank of Bosnia and Herzegovina,https://www.cbbh.ba/?lang=en,,,,12/29/2021
 BW,BWA,Botswana,Statistics Botswana,https://www.statsbots.org.bw/,,,http://botswana.microdatahub.com/index.php/catalog,Bank of Botswana,https://www.bankofbotswana.bw/,,,,12/29/2021
@@ -32,13 +32,13 @@ IO,IOT,British Indian Ocean Territory,-,https://biot.gov.io/,,,,Bank of England,
 VG,VGB,British Virgin Islands,Central Statistics Office,http://www.bvi.gov.vg/departments/central-statistics-office-0,,,,British Virgin Islands Financial Services Commission,https://www.bvifsc.vg/,,,,12/29/2021
 BN,BRN,Brunei,Department of Economic Planning and Statistics,http://www.deps.gov.bn/SitePages/National%20Statistics.aspx,,,,Brunei Darussalam Central Bank,https://www.bdcb.gov.bn/home.aspx,,,,12/29/2021
 BG,BGR,Bulgaria,National Statistical Institute,https://www.nsi.bg/en,,,,Bulgaria National Bank,https://www.bnb.bg/,,,,12/29/2021
-BF,BFA,Burkina Faso,National Institute of Statistics and Demography,https://www.insd.bf/,french,,https://www.insd.bf/nada/index.php/catalog,Banque Centrale des Etats de lâ€™Afrique de lâ€™Ouest ,https://www.bceao.int/fr/etats-membres/benin,,,,12/29/2021
+BF,BFA,Burkina Faso,National Institute of Statistics and Demography,https://www.insd.bf/,french,,https://www.insd.bf/nada/index.php/catalog,Banque Centrale des Etats de lâ€™Afrique de lâ€™Ouest,https://www.bceao.int/fr/etats-membres/benin,,,,12/29/2021
 BI,BDI,Burundi,Burundi Institute of Statistics and Economic Studies,https://www.isteebu.bi/,french,,http://www.isteebu.bi/nada/index.php/catalog,Banque de la Republique du Burundi,https://www.brb.bi/,,,,12/29/2021
 KH,KHM,Cambodia,National Institute of Statistics,https://www.nis.gov.kh/index.php/km/,Khmer;english,,http://nada.nis.gov.kh/index.php/home,National Bank of Cambodia,https://www.nbc.org.kh/english/,,,,12/29/2021
 CM,CMR,Cameroon,National Institute of Statistics,https://ins-cameroun.cm/en/welcome/,french;english,,,Banque des Etats de lâ€™Afrique Centrale,https://www.beac.int/,,,,12/29/2021
 CA,CAN,Canada,Statistics Canada,https://www.statcan.gc.ca/en/start,"Eng, Fr",,,Banque du Canada,https://www.banqueducanada.ca/,,,,12/29/2021
 CV,CPV,Cape Verde,instituto Nacional de EstatÃ­stica,https://ine.cv/en/,"Pt, Eng, Fr",,,Banco de Cabo Verde,https://www.bcv.cv/pt/Paginas/Homepage.aspx,,,,12/29/2021
-KY,CYM,Cayman Islands,Economics And Statistics Office,https://www.eso.ky/#2,Eng ,,,Cayman Islands Monetary Authority,https://www.cima.ky/,,,,12/29/2021
+KY,CYM,Cayman Islands,Economics And Statistics Office,https://www.eso.ky/#2,Eng,,,Cayman Islands Monetary Authority,https://www.cima.ky/,,,,12/29/2021
 CF,CAF,Central African Republic,"
 Institut Centrafricain des Statistiques, des Etudes Economiques et Sociales",https://icasees.org/,Fr,,,BANQUE DES ETATS DE Lâ€™AFRIQUE CENTRALE,https://www.beac.int/pays/centrafrique/,,,,12/29/2021
 TD,TCD,Chad,"Institut National de la Statistique, des Etudes Economiques et DÃ©mographiques",https://www.inseed.td/,Fr,,https://chad.opendataforafrica.org/,Banque des Etats de lâ€™Afrique Centrale,https://www.beac.int/,,,,12/29/2021
@@ -174,7 +174,7 @@ PR,PRI,Puerto Rico,Instituto de Estadísticas de Puerto Rico,https://estadistica
 QA,QAT,Qatar,Ministry of Development Planning and Statistics,https://www.psa.gov.qa/en/pages/default.aspx,,,,Qatar Central Bank,http://www.qcb.gov.qa/English/Pages/default.aspx,,,,12/29/2021
 CG,COG,Republic of the Congo,Institut National De La Statistique,https://ins-congo.cg/,,,,Banque Centrale du Congo,https://www.bcc.cd/,,,,12/29/2021
 RE,REU,Reunion,National Institute of Statistics and Economic Studies,https://www.insee.fr/en/accueil,,,,Banque de France,https://www.banque-france.fr/en/banque-de-france/about-banque-de-france/bank-locations/mayotte-en,,,,12/29/2021
-RO,ROU,Romania,National Institute of Statistics ,https://insse.ro/cms/en,,,,National Bank of Romania,https://www.bnr.ro/Home.aspx,,,,12/29/2021
+RO,ROU,Romania,National Institute of Statistics,https://insse.ro/cms/en,,,,National Bank of Romania,https://www.bnr.ro/Home.aspx,,,,12/29/2021
 RU,RUS,Russia,Federal State Statistics Service,https://eng.rosstat.gov.ru/,english,,,Bank of Russia,https://www.cbr.ru/eng/,,,,12/29/2021
 RW,RWA,Rwanda,National Institute of Statistics of Rwanda,https://www.statistics.gov.rw/,english,,,National Bank of Rwanda,https://www.bnr.rw/home/,,,,12/29/2021
 BL,BLM,Saint Barthelemy,-,,,,,Banque de France,https://www.banque-france.fr/en/banque-de-france/about-banque-de-france/bank-locations/mayotte-en,,,,12/29/2021
@@ -229,7 +229,7 @@ UA,UKR,Ukraine,State Statistics Service,https://ukrstat.org/en,english,,,Nationa
 AE,ARE,United Arab Emirates,Dubai Statistics Center,https://www.dsc.gov.ae/en-us/Pages/default.aspx,english,,,Central Bank of the U.A.E.,https://www.centralbank.ae/en,,,,12/29/2021
 GB,GBR,United Kingdom,Office of National Statistics,https://www.ons.gov.uk/,english,,,Bank of England,https://www.bankofengland.co.uk/,,,,4/2/2022
 US,USA,United States,Various,https://www.bls.gov/bls/other.htm,english,,,Federal Reserve of the United States,https://www.federalreserve.gov/,,,,12/29/2021
-UY,URY,Uruguay,instituto Nacional de EstatÃ­stica,https://www.ine.gub.uy/,english,,http://www.ine.gub.uy:82/Anda5/index.php/catalog/Metadatos,Central Bank of Uruguay,https://www.bcu.gub.uy/Ingles,,,,12/29/2021
+UY,URY,Uruguay,instituto Nacional de EstatÃ­stica,https://www.ine.gub.uy/,english,,https://www.gub.uy/instituto-nacional-estadistica/datos-y-estadisticas/datos-abiertos,Central Bank of Uruguay,https://www.bcu.gub.uy/Ingles,,,,12/29/2021
 UZ,UZB,Uzbekistan,The State Committee of the Republic of Uzbekistan on statistics,https://stat.uz/en/,english,,,Central Bank of the Republic of Uzebekistan,https://cbu.uz/en/,,,,12/29/2021
 VU,VUT,Vanuatu,Vanuatu National Statistics Office,https://vnso.gov.vu/index.php/en/,english,,https://microdata.pacificdata.org/index.php/catalog/VUT,Reserve Bank of Vanuatu,https://www.rbv.gov.vu/index.php/en/,,,,12/29/2021
 VA,VAT,Vatican,-,-,,,,,,,,,12/29/2021
